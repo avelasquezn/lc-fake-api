@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 26,
+      "address": "Nowhere"
+    },
+    {
+      "id": 2,
+      "name": "Jason Bourne",
+      "age": 34,
+      "address": "Unknown"
+    },
+    {
+      "id": 3,
+      "name": "William Norton",
+      "age": 38,
+      "address": "One Secret Place"
+    },
+    {
+      "name": "Steven Strange",
+      "age": 35,
+      "address": "Santum Santorum",
+      "id": 4
+    },
+    {
+      "name": "Bruce Banner",
+      "age": 38,
+      "address": "New York",
+      "id": 5
+    },
+    {
+      "name": "Steve Roggers",
+      "age": 45,
+      "address": "New York",
+      "id": 6
+    }
+  ]
+}
